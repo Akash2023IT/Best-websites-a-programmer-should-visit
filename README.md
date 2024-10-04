@@ -749,7 +749,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Computer Books
-- [Competitive Programming 4 ](https://stackoverflow.com) : The Lower Bound Of Programming Contests.
+- [Competitive Programming 4 ](https://amzn.in/d/bvpUd4n) : The Lower Bound Of Programming Contests.
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)

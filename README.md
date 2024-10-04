@@ -720,6 +720,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
 - [AtCoder](https://atcoder.jp/) : One of the best places to build competitive programming skills for beginners to experts.
+- [Coding Ninjas](https://www.codingninjas.com) : Coding Ninjas - Learn coding online at India's best coding institute. Restricted by opportunities? Get the tech 
+  career you deserve.
 - [CodeChef](https://www.codechef.com) : The only programming contests Web 2.0 platform
 - [CodeSignal](https://app.codesignal.com) : Test your coding skills
 - [CodeEval](https://www.codeeval.dev/) : Notepad for notes and code snippets, stored locally in the browser
@@ -733,6 +735,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [HackerRank](https://www.hackerrank.com) : Practice coding. Compete. Find jobs.
 - [LightOJ](https://lightoj.com) : Practicing at lightoj is so good for beginners as it is categorized and have also chat room and forum which helps to communicate with others about any problem.
 - [PKU ACM ICPC Practice problems](http://poj.org/problemlist) : Judge online for ACMACPC
+- [Stack Overflow](https://stackoverflow.com) : Where Developers Learn , Share and Build Careers.
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com) : Become a true programming master Learn how to code and build efficient algorithms
 - [Topcoder](https://www.topcoder.com) : Deliver Faster through Crowdsourcing
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/register) : Practice coding, Compete and be a better coder.
@@ -746,6 +749,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## Computer Books
+- [Competitive Programming 4 ](https://stackoverflow.com) : The Lower Bound Of Programming Contests.
 - [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : Exhaustive list of books from Zed A. Shaw.
 - [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
 - [cses.fi/book.html](https://cses.fi/book.html)
